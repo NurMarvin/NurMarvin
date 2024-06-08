@@ -1,4 +1,4 @@
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://camo.githubusercontent.com/146bfa6c8a98cfe01d5b4cb9c2be4cf3e21b1df1a82b1a862257b9f5e7bed6f5/68747470733a2f2f736872322e69302e74662f61643166356166642f67697068792e77656270');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 1; background: url('https://github.com/Vendicated/Vendicated/assets/45497981/b20cacf7-6dac-4281-a29d-5d7a8ed31ee0');]{x0000}$}
 \ce{$&#x5C;unicode[goombafont; pointer-events: none; backdrop-filter: blur(2px); z-index: 100; position: fixed; top: 0; left: 0; right: 0; bottom: 0;]{x0000}$}
 ```
